@@ -1,8 +1,6 @@
 # Portfolio-Risk-Engine
 **Portfolio Risk Engine** is a comprehensive portfolio analytics and risk management platform built with Python, Streamlit, and Plotly. It provides performance analysis, risk metrics (VaR, CVaR, Beta, Drawdown), stress testing, correlation analysis, portfolio optimization, and interactive visualizations for informed investment decisions.
 
-# Portfolio Risk Engine
-
 ## Overview
 
 Portfolio Risk Engine is a comprehensive portfolio analytics and risk management platform built with Python, Streamlit, and Plotly. It enables investors, analysts, and portfolio managers to evaluate portfolio performance, measure risk exposure, conduct stress testing, and gain actionable insights through interactive visualizations.
